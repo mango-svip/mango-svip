@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a building]([https://github.com/mango-svip/mango-svip/blob/master/th.jpeg])
+![a building](https://github.com/mango-svip/mango-svip/raw/master/th.jpeg)
